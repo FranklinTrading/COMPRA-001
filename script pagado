@@ -19,3 +19,4 @@ end)
 
 Section:NewButton("Afk script" , "obtiene cosas mientras duermes", function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/RTrade/Voidz/main/AntiAFK.lua'),true))()
+end)
